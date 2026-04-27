@@ -7,4 +7,4 @@
 
 --platform=linux/amd64 docker.io/velero/velero-plugin-for-aws
 --platform=linux/amd64 docker.io/velero/velero
---platform=linux/amd64 docker.io/velero/velero-plugin-for-fs
+--platform=linux/amd64 velero/velero-plugin-for-fs
